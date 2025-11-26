@@ -18,8 +18,8 @@ fn main() {
 
     // variable_bindings::execure_variable_bindings();
 
-    types::excute_types();
-    variable_bindings::execure_variable_bindings();
+    // types::excute_types();
+    // variable_bindings::execure_variable_bindings();
 
     conversion::execute_conversion();
 }
