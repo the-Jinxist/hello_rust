@@ -3,6 +3,7 @@ mod custom_types;
 mod variable_bindings;
 mod types;
 mod conversion;
+mod expressions;
 
 fn main() {
     println!("Hello, Rust!");
@@ -22,4 +23,6 @@ fn main() {
     // variable_bindings::execure_variable_bindings();
 
     conversion::execute_conversion();
+
+    expressions::exceute_expressions();
 }
